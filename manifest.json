@@ -1,0 +1,25 @@
+{
+  "name": "DeepSeek 额度查询",
+  "short_name": "DS额度",
+  "description": "查看你的 DeepSeek API 余额和可用状态",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f0f1a",
+  "theme_color": "#0f0f1a",
+  "scope": ".",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='40' fill='%234fc3f7'/%3E%3Ctext x='96' y='128' text-anchor='middle' font-size='100'%3E🧠%3C/text%3E%3C/svg%3E",
+      "type": "image/svg+xml",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='80' fill='%234fc3f7'/%3E%3Ctext x='256' y='340' text-anchor='middle' font-size='260'%3E🧠%3C/text%3E%3C/svg%3E",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
